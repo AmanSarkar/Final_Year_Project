@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="requestplace">Place request</string>
+    <string name="devicefound">Find my device</string>
+    <string name="onlinebuy">Bought from online</string>
+    <string name="billupload">Upload Your Device\'s Bill</string>
+    <string name="problemselect">Select Problems :</string>
+    <string name="problemphoto">Upload Current Device Photo</string>
+    <string name="problemadditional">Addition Problem if any...</string>
+    <string name="nameuser">User Name</string>
+    <string name="deviceuser">User Device</string>
+    <string name="open">project</string>
+    <string name="close">project</string>
+</resources>
